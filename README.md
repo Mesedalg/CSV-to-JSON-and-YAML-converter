@@ -8,4 +8,4 @@ It is simple CSV converter, written as a test task for hiring
 ___
 #### Installation
 ```
-git clone https://github.com/Mesedalg/ && cd Django_Intranet
+git clone https://github.com/Mesedalg/CSV-to-JSON-and-YAML-converter && cd CSV-to-JSON-and-YAML-converter
